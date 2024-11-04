@@ -76,4 +76,4 @@ teamB:和前端区别
 
 2.kick off-----哪个文件写在哪里--------------
 
-3. 在代码review的时候，如果不是明显的code smell，不进行comments
+3.在代码review的时候，如果不是明显的code smell，不进行comments
